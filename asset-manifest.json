@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/diege-app/static/css/main.ec5fdf54.css",
-    "main.js": "/diege-app/static/js/main.5c2cb559.js",
+    "main.css": "/diege-app/static/css/main.f0e25da2.css",
+    "main.js": "/diege-app/static/js/main.50a5179b.js",
     "static/js/453.b05d8aa5.chunk.js": "/diege-app/static/js/453.b05d8aa5.chunk.js",
     "static/media/diege_logo.png": "/diege-app/static/media/diege_logo.b91e517994810f60786b.png",
     "index.html": "/diege-app/index.html",
-    "main.ec5fdf54.css.map": "/diege-app/static/css/main.ec5fdf54.css.map",
-    "main.5c2cb559.js.map": "/diege-app/static/js/main.5c2cb559.js.map",
+    "main.f0e25da2.css.map": "/diege-app/static/css/main.f0e25da2.css.map",
+    "main.50a5179b.js.map": "/diege-app/static/js/main.50a5179b.js.map",
     "453.b05d8aa5.chunk.js.map": "/diege-app/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec5fdf54.css",
-    "static/js/main.5c2cb559.js"
+    "static/css/main.f0e25da2.css",
+    "static/js/main.50a5179b.js"
   ]
 }
